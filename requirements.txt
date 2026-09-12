@@ -1,0 +1,9 @@
+torch
+transformers
+datasets
+sentence-transformers
+gradio
+evaluate
+scikit-learn
+numpy
+pandas
